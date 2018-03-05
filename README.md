@@ -2,9 +2,9 @@
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-With GNavbar, you don't have to worry about navigation problem about your web page! It's robust, it's smooth and it's responsive (get it?). 
+With GNavbar, you don't have to worry about navigation problem about your web page! It's robust, it's smooth and it's responsive (get it? 🤣). 
 
-Adapted from the mighty Bootstrap v3.0.3, you can squash navbar's responsive layout problem now like a bug.
+Adapted from the mighty Bootstrap v3.0.3, you can squash navbar's responsive layout problem now like a bug🐛.
 
 ## How it works
 
@@ -139,4 +139,4 @@ e.g.
 
 `bootstrap.min.js`, `page_function_scripts.js` and `stickUp.min.js`  will be required in order for GNavbar to function.
 
-## See demo's source codes for more details.
+## See demo's source code for more details.
