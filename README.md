@@ -8,7 +8,7 @@ Adapted from the mighty Bootstrap v3.0.3, you can squash navbar's responsive lay
 
 ## How it works
 
-click <<[DEMO](http://htmlpreview.github.com/?https://github.com/sgyzetrov/GNavbar/index.html)>> and start testing navbar's responsive layout and all that stuff!
+click <<[DEMO](http://htmlpreview.github.com/?https://github.com/sgyzetrov/GNavbar/blob/master/index.html)>> and start testing navbar's responsive layout and all that stuff!
 
 ## What's included
 
